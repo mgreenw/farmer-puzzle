@@ -6,10 +6,7 @@ Time Spent: 15 hours
 
 Instructions:
 1) Install gcc or your favorite C compiler. On MacOS, use `xcode-select install`
-2) Navigate to the project folder and run:
-
-  `gcc -Wall -Wextra -pthread -o farmer_puzzle farmer_puzzle.c`
-
+2) Navigate to the project folder and run: `gcc -Wall -Wextra -pthread -o farmer_puzzle farmer_puzzle.c`
 3) Finally, run `./farmer_puzzle < code.txt` and you're all set! Try running `./farmer_puzzle -h` to see more options.
 
 Testing:
