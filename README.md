@@ -1,6 +1,6 @@
-Corista Take-Home Coding Challenge, Fall 2018
+# Corista Take-Home Coding Challenge, Fall 2018
 
-farmer_puzzle.c
+`farmer_puzzle.c`
 Author: Max Greenwald
 Time Spent: 15 hours
 
