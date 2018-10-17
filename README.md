@@ -1,4 +1,4 @@
-# Corista Take-Home Coding Challenge, Fall 2018
+# Farmer Puzzle
 
 `farmer_puzzle.c`
 Author: Max Greenwald
